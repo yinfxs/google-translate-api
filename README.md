@@ -7,7 +7,7 @@ A **free** and **unlimited** API for Google Translate :dollar::no_entry_sign:
 - Auto language detection
 - Spelling correction
 - Language correction 
-- Fast and reliable – it uses the same servers that [translate.google.com](https://translate.google.com) uses
+- Fast and reliable – it uses the same servers that [translate.google.cn](https://translate.google.cn) uses
 
 ## Install 
 
