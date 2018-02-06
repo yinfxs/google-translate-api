@@ -1,5 +1,5 @@
 {
-  "name": "google-translate-api",
+  "name": "googlecn-translate-api",
   "version": "2.3.0",
   "description": "A free and unlimited API for Google Translate",
   "main": "index.js",
@@ -32,7 +32,7 @@
   "homepage": "https://github.com/matheuss/google-translate-api#readme",
   "dependencies": {
     "configstore": "^2.0.0",
-    "google-translate-token": "https://github.com/yinfxs/google-translate-token.git",
+    "googlecn-translate-token": "^1.0.0",
     "got": "^6.3.0",
     "safe-eval": "^0.3.0"
   },
